@@ -28,7 +28,7 @@
 /* Header */
 
 	#header .inner {
-		-ms-behavior: url("assets/js/ie/PIE.htc");
+		-ms-behavior: url("assets/js/ie/PIE.htc"); 
 	}
 
 /* Nav */
