@@ -28,7 +28,7 @@
 	}
 
 /* Mobile UI */
-
+ 
 	#titleBar, #navPanel {
 		background-image: url("images/ie/grad0-35.svg");
 	}
